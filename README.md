@@ -4,7 +4,7 @@ Go rest service example. Use [chi](https://github.com/go-chi/chi) router. Design
 ## Project Structure
 Inspired by [Golang Standard](https://github.com/golang-standards/project-layout) and [Ben Johnson's WTF Dial](https://github.com/benbjohnson/wtf) project structure.
 
-`\ ` Root directory contains all the application domain type e.g. User/Customer/Sale
+`\` - Root directory contains all the application domain type e.g. User/Customer/Sale
 
 `cmd` - main application package.
 
